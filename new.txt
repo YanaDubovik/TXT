@@ -1,0 +1,4 @@
+1) name Dubovik Yana
+2) age 28
+3) pet 1
+4) salary 500
