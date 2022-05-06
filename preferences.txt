@@ -1,0 +1,5 @@
+        favorite movie: God father
+	favorite series: Friends
+	favorite dish: Borsch
+	favorite season: Summer
+	country: Japan
